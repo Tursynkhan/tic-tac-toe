@@ -29,3 +29,6 @@ This is a simple Tic-Tac-Toe game built with React. It allows two players to tak
 4. The game automatically detects when a player wins or when the game ends in a draw.
 5. If a player wins, a message will be displayed announcing the winner.
 6. To restart the game, click the "Restart" button.
+
+## Author 
+@Tursynkhan
